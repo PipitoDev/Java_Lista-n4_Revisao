@@ -1,4 +1,4 @@
-Atividade com base na quarta lista do Flowgorithm, lista de revisão.
+Atividade com base na quarta lista do Flowgorithm, lista de revisão. Tentei utilizar bastante do Ternário, mas algumas fiz somente com if e else por achar mais prático quando quero adicionar complexidade.
 
 Exercícios de Algoritmo
 
